@@ -1,3 +1,3 @@
-*Some* content.
+**Some** content.
 :smirk:
 *
